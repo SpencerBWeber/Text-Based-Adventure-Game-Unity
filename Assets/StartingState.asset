@@ -12,4 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ccda1c09bd25427cb2247d4a7ec7ef0, type: 3}
   m_Name: StartingState
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: 'You awaken in a what looks like a dungeon cell.
+
+    You feel the ground rumble as trumpets and cheering echo across the room.
+
+    Sunlight bursts into the room from behind as a rusty portcullis starts to rise.
+
+    You notice the cage has a weak spot, if you''re fast enough, you could possibly
+    escape.
+
+
+    What do you do?
+
+    1. Enter arena - You don''t know what awaits.
+
+    2. Break out - Gotta be sneaky..'
+  nextStates:
+  - {fileID: 11400000, guid: 54bd0c77d92924920a9a8721767b2283, type: 2}
+  - {fileID: 11400000, guid: 63197690cc3d5400aafaa25715272ad3, type: 2}
