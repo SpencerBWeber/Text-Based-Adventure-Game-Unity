@@ -1,0 +1,8 @@
+﻿You awaken in a what looks like a dungeon cell.
+You feel the ground rumble as trumpets and cheering echo across the room.
+Sunlight bursts into the room from behind as a rusty portcullis starts to rise.
+You notice the cage has a weak spot, if you're fast enough, you could possibly escape.
+
+choices:
+1. Enter arena
+2. Break out
